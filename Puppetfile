@@ -32,10 +32,8 @@ mod 'puppetlabs/mysql', '3.3.0'
 mod 'mayflower/php', '3.4.1'
 mod 'puppetlabs/ruby', '0.5.0'
 mod 'puppetlabs/ciscopuppet', '1.0.0'
-mod 'puppetlabs/satellite_pe_tools', '1.0.1'
 mod 'puppetlabs/haproxy', '1.5.0'
 mod 'tse/to_resource', '0.1.2'
-mod 'puppetlabs/vsphere'
 mod 'puppetlabs/chocolatey', '2.0.0'
 
 mod 'app_modeling',
@@ -72,7 +70,6 @@ mod 'vshn-gitlab', '1.11.0'
 
 mod 'windows_ad',
   :git => 'https://github.com/glennsarti/glennsarti-windows_ad'
-mod 'puppetlabs-sqlserver', '1.1.4'
 mod 'puppetlabs-mount_iso', '0.1.0'
 mod 'cyberious-pget', '1.1.0'
 mod 'trlinkin/domain_membership', '1.1.1'
